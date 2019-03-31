@@ -1,2 +1,3 @@
-# ml-boston-house-prices
-The Boston house prices prediction.
+# Machine Learning: Predicting Boston Housing Prices 
+
+
