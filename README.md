@@ -2,6 +2,18 @@
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
 
+### Problem Statement
+
+### Datasets and Inputs
+
+### Solution Statement
+
+### Evaluation Metrics
+
+### Project Design
+
+
+
 ### Install
 
 This project requires **Python** and the following Python libraries installed:
