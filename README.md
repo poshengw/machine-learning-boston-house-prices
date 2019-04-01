@@ -7,7 +7,13 @@
 2. Data Exploration
 3. Define a Performance Metric: coefficient of determination (denoted by R2) to quantify your model's performance. The coefficient of determination for a model is a useful statistic in regression analysis, as it often describes how "good" that model is at making predictions.
 4. DecisionTreeRegressor with different max_depth correspoinding to different generalization ability. Complexity curve explains the  graph for a decision tree model that has been trained and validated on the training data using different maximum depths. The graph produces two complexity curves — one for training and one for validation
-5. Bias-Variance Tradeoff
+5. Bias-Variance Tradeoff investigation
+6. Grid search technique and how it can be applied to optimize a learning algorithm to find the best hyperparameters.
+7. Cross-Validation technique:  k-fold cross-validation training technique. What benefit does this technique provide for grid search when optimizing a model?
+8. ShuffleSplit: difference between shuffleSplit and  K-Fold cross-validation technique 
+9. Performs grid search over the 'max_depth' parameter for a decision tree regressor trained on the input data [X, y]
+10. Sensitivity and robust: Run the code cell below to run the fit_model function ten times with different training and testing sets to see how the prediction for a specific client changes with respect to the data it's trained on.
+
 
 ### Datasets and Inputs
 
