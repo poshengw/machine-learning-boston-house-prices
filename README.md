@@ -3,6 +3,11 @@
 ## Project: Predicting Boston Housing Prices
 
 ### Problem Statement
+1. Evaluate the performance and predictive power of a model 
+2. Data Exploration
+3. Define a Performance Metric: coefficient of determination (denoted by R2) to quantify your model's performance. The coefficient of determination for a model is a useful statistic in regression analysis, as it often describes how "good" that model is at making predictions.
+4. DecisionTreeRegressor with different max_depth correspoinding to different generalization ability. Complexity curve explains the  graph for a decision tree model that has been trained and validated on the training data using different maximum depths. The graph produces two complexity curves — one for training and one for validation
+5. Bias-Variance Tradeoff
 
 ### Datasets and Inputs
 
