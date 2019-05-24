@@ -4,15 +4,14 @@
 
 ### Problem Summary:
 - Evaluate the performance and predictive power of a model. 
-- Data Exploration.
-- Define a Performance Metric: coefficient of determination (denoted by R2) to quantify your model's performance. The coefficient of determination for a model is a useful statistic in regression analysis, as it often describes how "good" that model is at making predictions.
-- DecisionTreeRegressor with different max_depth correspoinding to different generalization ability. Complexity curve explains the  graph for a decision tree model that has been trained and validated on the training data using different maximum depths. The graph produces two complexity curves — one for training and one for validation
-- Bias-Variance Tradeoff investigation
-- Grid search technique and how it can be applied to optimize a learning algorithm to find the best hyperparameters.
-- Cross-Validation technique:  k-fold cross-validation training technique. What benefit does this technique provide for grid search when optimizing a model?
-- ShuffleSplit: difference between shuffleSplit and  K-Fold cross-validation technique 
-- Performs grid search over the 'max_depth' parameter for a decision tree regressor trained on the input data [X, y]
-- Sensitivity and robust: Run the code cell below to run the fit_model function ten times with different training and testing sets to see how the prediction for a specific client changes with respect to the data it's trained on.
+- **Data Exploration**.
+- Defined a Performance Metric: **coefficient of determination (R^2)** to quantify your model's performance. The coefficient of determination for a model is a useful statistic in regression analysis, as it often describes how "good" that model is at making predictions.
+- Performed **DecisionTreeRegressor** with different max_depth correspoinding to different generalization ability. Complexity curve explains the graph for a decision tree model that has been trained and validated on the training data using different maximum depths. The graph produces two complexity curves — one for training and one for validation.
+- **Bias-Variance Tradeoff** investigation
+- Perfromed **Grid search technique** and how it can be applied to optimize a learning algorithm to find the best hyperparameters.
+- Performed **Cross-Validation technique**: k-fold cross-validation training technique.
+- **Sensitivity and robust**: Run the fit_model ten times with different training and testing sets to see how the prediction for a specific client changes with respect to the data it's trained on.
+- Analyzed performance graphs for a learning algorithm with varying parameters and training set size to pick the optimal model that best generalizes for unseen data.
 
 ### Data:
 
