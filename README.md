@@ -7,7 +7,7 @@
 - **Data Exploration**.
 - Defined a Performance Metric: **coefficient of determination (R^2)** to quantify your model's performance. The coefficient of determination for a model is a useful statistic in regression analysis, as it often describes how "good" that model is at making predictions.
 - Performed **DecisionTreeRegressor** with different max_depth correspoinding to different generalization ability. Complexity curve explains the graph for a decision tree model that has been trained and validated on the training data using different maximum depths. The graph produces two complexity curves — one for training and one for validation.
-- **Bias-Variance Tradeoff** investigation
+- **Bias-Variance Tradeoff** investigation.
 - Perfromed **Grid search technique** and how it can be applied to optimize a learning algorithm to find the best hyperparameters.
 - Performed **Cross-Validation technique**: k-fold cross-validation training technique.
 - **Sensitivity and robust**: Run the fit_model ten times with different training and testing sets to see how the prediction for a specific client changes with respect to the data it's trained on.
