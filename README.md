@@ -1,9 +1,9 @@
 # Machine Learning Engineer Nanodegree
 # Model Evaluation and Validation
-## Project: Predicting Boston Housing Prices
-## Project: Predicting Boston Housing Prices
 
-### Problem Summary:
+# Project: Predicting Boston Housing Prices
+
+### Project Summary:
 - Evaluate the performance and predictive power of a model. 
 - **Data Exploration**.
 - Defined a Performance Metric: **coefficient of determination (R^2)** to quantify your model's performance. The coefficient of determination for a model is a useful statistic in regression analysis, as it often describes how "good" that model is at making predictions.
