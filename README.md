@@ -2,7 +2,7 @@
 ## Model Evaluation and Validation
 
 <br/>
-Predicting Boston Housing Prices
+### Predicting Boston Housing Prices
 
 ### Project Summary:
 - Evaluate the performance and predictive power of a model. 
